@@ -1,3 +1,3 @@
 # computationalphysics_N2015301020174
-schoolwork_1 uploaded
-schoolwork_2 uploaded
+schoolwork_1
+schoolwork_2
