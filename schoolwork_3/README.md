@@ -1,4 +1,4 @@
-# Source code(https://github.com/pycll/computationalphysics_N2015301020174/blob/master/schoolwork_3/schoolwork_3.py)and result(
+# [Source code](https://github.com/pycll/computationalphysics_N2015301020174/blob/master/schoolwork_3/schoolwork_3.py)and [Result pic](https://github.com/pycll/computationalphysics_N2015301020174/blob/master/schoolwork_3/schoolwork_3.PNG)
 
 # 题目大意
 1.1 地球表面自由下落的物理遵循 dv/dt=-g 使用欧拉方法解出这个方程。
