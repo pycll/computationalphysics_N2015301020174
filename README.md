@@ -1,4 +1,4 @@
-# computationalphysics_N2015301020174
+# Computationalphysics_N2015301020174
 ### 物基二班 彭岳昌
 ## [schoolwork_1](https://github.com/pycll/computationalphysics_N2015301020174/blob/master/schoolwork_1.py)
 1.打出自己的名字
