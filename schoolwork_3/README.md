@@ -1,6 +1,6 @@
 # 题目大意
 1.1 地球表面自由下落的物理遵循
-！[img]（computationalphysics_N2015301020174/schoolwork_3/Equation.gif ）
+！[img]（https://github.com/pycll/computationalphysics_N2015301020174/blob/master/schoolwork_3/Equation.gif）
 使用欧拉方法解出这个方程
 
 # 我的想法
