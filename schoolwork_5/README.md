@@ -22,3 +22,6 @@
 仰视图（z-x） 
 
 ![image](https://github.com/pycll/computationalphysics_N2015301020174/blob/master/schoolwork_5/picture_3.PNG)
+
+# 致谢
+仍旧感谢马奇云同学的帮助以及参考！
