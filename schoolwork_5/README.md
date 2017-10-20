@@ -10,6 +10,7 @@
 
 ## 计算结果
 在棒球初速度49m/s,出射角度为45度，击球高度为1.5m，侧旋转速2000rpm的情况下，棒球落地时z方向偏移量为-53.2m。 
+
 正视图（y-x） 
 
 ![image](https://github.com/pycll/computationalphysics_N2015301020174/blob/master/schoolwork_5/picture_2.PNG)
