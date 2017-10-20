@@ -8,3 +8,4 @@
 用欧拉法求解常微分方程
 ## [schoolwork_4](https://github.com/pycll/computationalphysics_N2015301020174/tree/master/schoolwork_4)
 用欧拉法画出炮弹的运动轨迹
+## [schoolwork_5](https://github.com/pycll/computationalphysics_N2015301020174/tree/master/schoolwork_5)
