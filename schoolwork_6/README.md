@@ -19,7 +19,7 @@
 
 Poincare Section
 ![image](https://github.com/pycll/computationalphysics_N2015301020174/blob/master/schoolwork_6/PoincareSection_1.PNG)
-![image](https://github.com/pycll/computationalphysics_N2015301020174/blob/master/schoolwork_6/PoincareSection_2.PNG)
+![image](https://github.com/pycll/computationalphysics_N2015301020174/blob/master/schoolwork_6/Poincare%20Section_2.PNG)
 
 ## 致谢
 感谢马奇云同学的帮助！虽然从数学上我知道混沌是怎么一回事，也在非线性动力学里面大概的处理过类似于混沌的问题，但是这是第一次用计算机计算。真的非常感谢他！！！
