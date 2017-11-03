@@ -1,5 +1,5 @@
 # 摘要
-我写的是书上的3-26题，通过Lorenz方程组来计算混沌现象。
+我写的是书上的3-26题，通过Lorenz方程组来计算混沌现象。[Source code](https://github.com/pycll/computationalphysics_N2015301020174/blob/master/schoolwork_7/schoolwork_7.py)
 
 
 # 研究背景
