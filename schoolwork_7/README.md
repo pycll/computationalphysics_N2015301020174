@@ -25,7 +25,7 @@ Lorenz模型依赖于r，通过赋予不同的r的值，可以看到不同的现
 ![image](https://github.com/pycll/computationalphysics_N2015301020174/blob/master/schoolwork_7/z-t.PNG)
 
 其中，r的取值分别为5，10，15，20，25，30.可以发现，在r的值比较小的情况下，体系的震动显然是符合于谐振子的阻尼振动模型的，随着r的增大，z方向开始概周期性地出现孤峰。一个有名的例子就是求解KdE方程得出的孤立子解，最早在河道中观察到。
-另外，稳定性研究在非线性动力学中非常重要，画出x-z截面上的轨迹曲线，如图所示。可以看出，体系的x-z相关是稳定的。
+另外，稳定性研究在非线性动力学中非常重要，画出x-z截面上的轨迹曲线，如图所示。可以看出，体系的x-z表现出双吸引子的形式，是暂态稳定的。
 
 ![image](https://github.com/pycll/computationalphysics_N2015301020174/blob/master/schoolwork_7/x-z.PNG)
 
