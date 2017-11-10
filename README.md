@@ -14,3 +14,5 @@
 #### [schoolwork_6](https://github.com/pycll/computationalphysics_N2015301020174/blob/master/schoolwork_6)
 
 #### [schoolwork_7](https://github.com/pycll/computationalphysics_N2015301020174/blob/master/schoolwork_7/README.md)使用Lorenz方程组计算混沌现象
+
+#### [schoolwork_8](https://github.com/pycll/computationalphysics_N2015301020174/blob/master/schoolwork_8/README.md)计算二体问题的轨道
