@@ -18,4 +18,4 @@
 #### [schoolwork_8](https://github.com/pycll/computationalphysics_N2015301020174/blob/master/schoolwork_8/README.md)计算二体问题的轨道
 #### [mid_term_exam](https://github.com/pycll/computationalphysics_N2015301020174/tree/master/mid_term_exam)打飞机
 #### [schoolwork_9](https://github.com/pycll/computationalphysics_N2015301020174/blob/master/schoolwork_9/README.md)
-#### [schoolwork_10](https://github.com/pycll/computationalphysics_N2015301020174/blob/master/schoolwork_10/README.md)
+#### [schoolwork_10](https://github.com/pycll/computationalphysics_N2015301020174/blob/master/schoolwork_10/README.md)画出电势能的分布曲线
