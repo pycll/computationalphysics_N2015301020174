@@ -1,5 +1,5 @@
-### 摘要[Source code](https://github.com/pycll/computationalphysics_N2015301020174/blob/master/schoolwork_11/schoolwork_11.py)
-波动是物理学中应用非常广泛，也是使用起来非常强有力的模型。这类模型可以推广至谐振子模型。无论是电磁理论中的Lorentz谐振子模型，还是量子力学中的Schwinger谐振子模型。对于这类模型的求解，最终往往归结于一个波动方程的求解。这可以看作是经典的波动的推广。在此，我们讨论波在弹性绳上的传播（不考虑损耗）。
+### 摘要
+波动是物理学中应用非常广泛，也是使用起来非常强有力的模型。这类模型可以推广至谐振子模型。无论是电磁理论中的Lorentz谐振子模型，还是量子力学中的Schwinger谐振子模型。对于这类模型的求解，最终往往归结于一个波动方程的求解。这可以看作是经典的波动的推广。在此，我们讨论波在弹性绳上的传播（不考虑损耗）。[Source code](https://github.com/pycll/computationalphysics_N2015301020174/blob/master/schoolwork_11/schoolwork_11.py)
 
 ### 背景
 对于一维的波动问题，在不考虑损耗的情况下，由波动方程描述：
