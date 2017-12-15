@@ -3,13 +3,14 @@
 
 ## 背景
 对于一维的波动问题，在不考虑损耗的情况下，由波动方程描述：
+![image](https://github.com/pycll/computationalphysics_N2015301020174/blob/master/schoolwork_11/Formula_1.png)
 
 如果考虑固定边界条件，即绳子的两个端点在此坐标系下不会发生移动，此时波在绳上的传播会在端点发生反射；此时将上式写成差分方程的形式：
-
-
+![image](https://github.com/pycll/computationalphysics_N2015301020174/blob/master/schoolwork_11/Formula_2.png)
 
 ## 正文
 考虑最开始的波形为一个高斯型波包，使用如上的差分方程，可以的出如图所示的图示：
+![image](https://github.com/pycll/computationalphysics_N2015301020174/blob/master/schoolwork_11/schoolwork_11.gif)
 
 
 ## 结论
