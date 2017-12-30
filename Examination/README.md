@@ -26,7 +26,9 @@ and 4-dimensional volecity we got the relationship:
 Contracting these equations, we can derive the movement equation of such a test particle:
 
 ![image](https://github.com/pycll/computationalphysics_N2015301020174/blob/master/Examination/Radius.png)
+
 ![image](https://github.com/pycll/computationalphysics_N2015301020174/blob/master/Examination/Degree.png)
+
 ![image](https://github.com/pycll/computationalphysics_N2015301020174/blob/master/Examination/Coordinate_time.png)
 
 ## 正文
@@ -57,19 +59,20 @@ And our clock, which is our proper time and also the coordinate time, is
 
 Using Python, we get:
 
+![image]
+
 We can get that in our proper time the pilot will never get into the Radius because it will take infinite time. But the pilot 
-himself will soon found he get into the Radius.
+himself will soon found he get inside the Radius.
 
+## 结论
+As the simplest exact solution of Einstein Equation, the Schwarzshild solution remain its simple quantities from GR that differ 
+from Newtonian gravitation theory, yet can show us a lot of unique effects that in Newton's theory that is never possible.
 
-
-
-
-假设在真空中，T为零，则有：
-
-如果假设引起弯曲的物体具有球对称，电荷量和角动量为0，那么可以解得该时空线元的表达式（该时空的度规）：
-
-对于有质量的粒子，走的是类时侧底线，此时有：
-联立以上各式，可以得到类时粒子的运动方程为：
+## 致谢
+感谢刘祥干学长提供的范例。
+Reference Book：
+Robert Wald. General Relativity
+Moshe Carmeli. Classical Fields:General Relativity and Gauge Theory
 
 
 
