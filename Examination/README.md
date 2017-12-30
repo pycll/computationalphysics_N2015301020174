@@ -9,8 +9,7 @@ In General Relativity, the Einstein Equation that reflects matter having affects
 
 ![image](https://github.com/pycll/computationalphysics_N2015301020174/blob/master/Examination/Einstein_Equation.png)
 
-If we consider the metric was spherely symmetric, and the body which cause curvature of space-time is neutron, the we derive the 
-metric:
+If we consider the metric was spherely symmetric, and the body which cause curvature of space-time is neutron, then we derive the metric:
 
 ![image](https://github.com/pycll/computationalphysics_N2015301020174/blob/master/Examination/Schwarzschild_Metric.png)
 
@@ -69,7 +68,7 @@ As the simplest exact solution of Einstein Equation, the Schwarzshild solution r
 from Newtonian gravitation theory, yet can show us a lot of unique effects that in Newton's theory that is never possible.
 
 ## 致谢
-感谢刘祥干学长提供的范例。
+Thanks for the guide from Xianggan Liu.
 Reference Book：
 Robert Wald. General Relativity
 Moshe Carmeli. Classical Fields:General Relativity and Gauge Theory
