@@ -1,11 +1,11 @@
 ## 摘要
-Nowadys the most succesful theory about gravity is General Relativity which was first introduced by A.Einstein in 1915. In Genaral 
+Nowadays the most succesful theory about gravity is General Relativity which was first introduced by A.Einstein in 1915. In Genaral 
 Relativity, gravity was thought of as an effect of the curvature of the 4-dimensional space-time. In this paper, I will mainly
 introduce the simplist solution of Einstein Equation: the Schwarzschild slution which was derived by K.Schwarzschild at the year 
 of 1916, and try to argue on some famous effect of the Schwarzschild Metric, espacially on the movement of a test particle.
 
 ## 背景介绍
-In General Relativity, the Einstein Equation that reflects matter having affects on space-time in caccum is:
+In General Relativity, the Einstein Equation that reflects matter having affects on space-time in vaccum is:
 
 ![image](https://github.com/pycll/computationalphysics_N2015301020174/blob/master/Examination/Einstein_Equation.png)
 
