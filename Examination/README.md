@@ -39,12 +39,14 @@ equations, we can derive:
 
 Using Python, we get the picture
 
-![image]
+![image](https://github.com/pycll/computationalphysics_N2015301020174/blob/master/Examination/Mercury_Procession_Result.png)
+
 
 ### Light Bending
 A famous prophecy which GR introduced was the light bending. The only difference between light which we can see as photon and test particle was that light follows:
 
-![image]
+![image](https://github.com/pycll/computationalphysics_N2015301020174/blob/master/Examination/Light_Bending_Result.png)
+
 
 ### Time Dialation
 Consider a pilot was approching the Schwarzschild Radius, in which even light cannot escape, can freely falling to the centre 
@@ -59,7 +61,8 @@ And our clock, which is our proper time and also the coordinate time, is
 
 Using Python, we get:
 
-![image]
+![image](https://github.com/pycll/computationalphysics_N2015301020174/blob/master/Examination/Time_Dialation_Result.png)
+
 
 We can get that in our proper time the pilot will never get into the Radius because it will take infinite time. But the pilot 
 himself will soon found he get inside the Radius.
