@@ -37,13 +37,13 @@ equations, we can derive:
 
 ![image](https://github.com/pycll/computationalphysics_N2015301020174/blob/master/Examination/Mercury_Procession.png)
 
-Using Python, we get the picture
+Using Python, we get the picture [code](https://github.com/pycll/computationalphysics_N2015301020174/blob/master/Examination/Mercury_Procession.py)
 
 ![image](https://github.com/pycll/computationalphysics_N2015301020174/blob/master/Examination/Mercury_Procession_Result.PNG)
 
 
 ### Light Bending
-A famous prophecy which GR introduced was the light bending. The only difference between light which we can see as photon and test particle was that light follows:
+A famous prophecy which GR introduced was the light bending. The only difference between light which we can see as photon and test particle was that light follows:[code](https://github.com/pycll/computationalphysics_N2015301020174/blob/master/Examination/Light_Bending.py)
 
 ![image](https://github.com/pycll/computationalphysics_N2015301020174/blob/master/Examination/Light_Bending_Result.PNG)
 
@@ -59,7 +59,7 @@ And our clock, which is our proper time and also the coordinate time, is
 
 ![image](https://github.com/pycll/computationalphysics_N2015301020174/blob/master/Examination/Coodinate_time_BH.png)
 
-Using Python, we get:
+Using Python, we get: [code](https://github.com/pycll/computationalphysics_N2015301020174/blob/master/Examination/Time_Dialation.py)
 
 ![image](https://github.com/pycll/computationalphysics_N2015301020174/blob/master/Examination/Time_Dialation_Result.PNG)
 
