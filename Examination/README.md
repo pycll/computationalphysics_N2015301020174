@@ -54,7 +54,8 @@ is:
 ![image](https://github.com/pycll/computationalphysics_N2015301020174/blob/master/Examination/Proper_time_BH.png)
 
 And our clock, which is our proper time and also the coordinate time, is
-![image](https://github.com/pycll/computationalphysics_N2015301020174/blob/master/Examination/Coordiante_time_BH.png)
+
+![image](https://github.com/pycll/computationalphysics_N2015301020174/blob/master/Examination/Coodiante_time_BH.png)
 
 Using Python, we get:
 
