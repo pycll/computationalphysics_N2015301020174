@@ -75,7 +75,9 @@ from Newtonian gravitation theory, yet can show us a lot of unique effects that 
 Thanks for the guide from Xianggan Liu.
 
 Reference Book：
+
 Robert Wald. General Relativity
+
 Moshe Carmeli. Classical Fields:General Relativity and Gauge Theory
 
 
