@@ -6,45 +6,54 @@ of 1916, and try to argue on some famous effect of the Schwarzschild Metric, esp
 
 ## 背景介绍
 In General Relativity, the Einstein Equation that reflects matter having affects on space-time in caccum is:
-![image](https://github.com/pycll/computationalphysics_N2015301020174/blob/master/Examination/Einstein Equation.png)
+
+![image](https://github.com/pycll/computationalphysics_N2015301020174/blob/master/Examination/Einstein_Equation.png)
 
 If we consider the metric was spherely symmetric, and the body which cause curvature of space-time is neutron, the we derive the 
 metric:
-![image](https://github.com/pycll/computationalphysics_N2015301020174/blob/master/Examination/Schwarzschild Metric.png)
+
+![image](https://github.com/pycll/computationalphysics_N2015301020174/blob/master/Examination/Schwarzschild_Metric.png)
 
 This is called the Schwarzschild Metric that implies the line elemente in a Schwarzschild space-time.
 Consider a certain test particle which is free falling, it follows the time-like geodesics:
+
 ![image](https://github.com/pycll/computationalphysics_N2015301020174/blob/master/Examination/Geodesic.png)
 
 and 4-dimensional volecity we got the relationship:
-![image](https://github.com/pycll/computationalphysics_N2015301020174/blob/master/Examination/Timelike Vector.png)
+
+![image](https://github.com/pycll/computationalphysics_N2015301020174/blob/master/Examination/Timelike_Vector.png)
 
 Contracting these equations, we can derive the movement equation of such a test particle:
+
 ![image](https://github.com/pycll/computationalphysics_N2015301020174/blob/master/Examination/Radius.png)
 ![image](https://github.com/pycll/computationalphysics_N2015301020174/blob/master/Examination/Degree.png)
-![image](https://github.com/pycll/computationalphysics_N2015301020174/blob/master/Examination/Coordinate time.png)
+![image](https://github.com/pycll/computationalphysics_N2015301020174/blob/master/Examination/Coordinate_time.png)
 
 ## 正文
 ### Mercury Procession
 The first success of General Relativity was that is explained the Mercury procession. If we kill the proper time from above 
 equations, we can derive:
-![image](https://github.com/pycll/computationalphysics_N2015301020174/blob/master/Examination/Mercury Procession.png)
+
+![image](https://github.com/pycll/computationalphysics_N2015301020174/blob/master/Examination/Mercury_Procession.png)
 
 Using Python, we get the picture
+
 ![image]
 
 ### Light Bending
 A famous prophecy which GR introduced was the light bending. The only difference between light which we can see as photon and test particle was that light follows:
+
 ![image]
 
 ### Time Dialation
 Consider a pilot was approching the Schwarzschild Radius, in which even light cannot escape, can freely falling to the centre 
 of the space-time, and we are observing him at infinite. For the pilot, his clock time, which is also his local proper time, 
 is:
-![image](https://github.com/pycll/computationalphysics_N2015301020174/blob/master/Examination/Proper time BH.png)
+
+![image](https://github.com/pycll/computationalphysics_N2015301020174/blob/master/Examination/Proper_time_BH.png)
 
 And our clock, which is our proper time and also the coordinate time, is
-![image](https://github.com/pycll/computationalphysics_N2015301020174/blob/master/Examination/Coordiante time BH.png)
+![image](https://github.com/pycll/computationalphysics_N2015301020174/blob/master/Examination/Coordiante_time_BH.png)
 
 Using Python, we get:
 
