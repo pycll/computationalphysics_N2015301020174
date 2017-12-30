@@ -39,13 +39,13 @@ equations, we can derive:
 
 Using Python, we get the picture
 
-![image](https://github.com/pycll/computationalphysics_N2015301020174/blob/master/Examination/Mercury_Procession_Result.png)
+![image](https://github.com/pycll/computationalphysics_N2015301020174/blob/master/Examination/Mercury_Procession_Result.PNG)
 
 
 ### Light Bending
 A famous prophecy which GR introduced was the light bending. The only difference between light which we can see as photon and test particle was that light follows:
 
-![image](https://github.com/pycll/computationalphysics_N2015301020174/blob/master/Examination/Light_Bending_Result.png)
+![image](https://github.com/pycll/computationalphysics_N2015301020174/blob/master/Examination/Light_Bending_Result.PNG)
 
 
 ### Time Dialation
@@ -61,7 +61,7 @@ And our clock, which is our proper time and also the coordinate time, is
 
 Using Python, we get:
 
-![image](https://github.com/pycll/computationalphysics_N2015301020174/blob/master/Examination/Time_Dialation_Result.png)
+![image](https://github.com/pycll/computationalphysics_N2015301020174/blob/master/Examination/Time_Dialation_Result.PNG)
 
 
 We can get that in our proper time the pilot will never get into the Radius because it will take infinite time. But the pilot 
