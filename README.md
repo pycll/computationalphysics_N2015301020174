@@ -20,3 +20,4 @@
 #### [schoolwork_9](https://github.com/pycll/computationalphysics_N2015301020174/blob/master/schoolwork_9/README.md)
 #### [schoolwork_10](https://github.com/pycll/computationalphysics_N2015301020174/blob/master/schoolwork_10/README.md)画出电势能的分布曲线
 #### [schoolwork_11](https://github.com/pycll/computationalphysics_N2015301020174/blob/master/schoolwork_11/README.md)模拟机械波在弹性绳上的传播
+#### [Examination](https://github.com/pycll/computationalphysics_N2015301020174/blob/master/Examination/README.md)粒子在史瓦西时空中的运动
