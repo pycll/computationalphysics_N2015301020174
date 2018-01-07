@@ -6,6 +6,7 @@
 
 ## 正文
 台球的轨迹如图所示：
+
 ![image](https://github.com/pycll/computationalphysics_N2015301020174/blob/master/schoolwork_9/schoolwork_1.PNG)
 
 ![image](https://github.com/pycll/computationalphysics_N2015301020174/blob/master/schoolwork_9/schoolwork_2.PNG)
